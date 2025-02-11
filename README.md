@@ -3,6 +3,10 @@ A simple Telegram bot that fetches information from Last FM. Re-written in Kotli
 
 This project uses the [TelegramBots](https://github.com/rubenlagus/TelegramBots) library and my own Last FM wrapper library [lfm4j](https://github.com/desmond27/lfm4j).
 
+See this bot in action: https://t.me/BlastFM_bot.
+
+It does not need to be started. Just add to a chat and pass the commands given in the `Bot comamnds` section below.
+
 Building
 --------
 
